@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Codeforces
 {
-    class Program
+    class Codeforces
     {
         static void Main(string[] args)
         {
